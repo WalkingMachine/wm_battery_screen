@@ -20,17 +20,17 @@ Installer les librairies Adafruit GFX et ST7735 via l'application Arduino (Croqu
 
  - Utilisation de l'arduino DUE et de son programming port.
 
-todo images arduino due
+![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/Arduino%20DUE%20programming%20port.jpg)
 
  - Utilisation d'un écran tft 1.8", communication SPI.
 
-todo images ecran
+![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/tft%20128160.jpg)
 
  - PCBs avec boutons poussoirs.
 
 todo image pcbs
 
-### Cablâge (Voir images)
+### Cablâge
 
 |  Borne de l'écran  |  Pin de l'Arduino  |
 |:------------------:|:------------------:|
@@ -43,9 +43,15 @@ todo image pcbs
 |        SDA         |         SPI 4      |
 |        SCK         |         SPI 3      |
 
+   - Numérotation Pins SPI :
+   
+   ![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/Arduino%20DUE%20SPI%20pins.jpg)
+
    - 4 Boutons poussoirs avec pull down (R = 20k Ohms) :
 
-   - Signal 5V en provenance de l'Arduino (Voir image).
+   - Signal 5V en provenance de l'Arduino (Voir image) :
+   
+   ![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/Arduino%20Due%205V.jpg)
    
    - Cablâge des boutons : 
 
