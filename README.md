@@ -24,7 +24,7 @@ Installer les librairies Adafruit GFX et ST7735 via l'application Arduino (Croqu
 
  - Utilisation d'un écran tft 1.8", communication SPI.
 
-![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/tft%20128160.jpg)
+![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/tft128par160.jpeg)
 
  - PCBs avec boutons poussoirs.
 
