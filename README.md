@@ -63,8 +63,14 @@ todo image pcbs
       |    4   |     2    |
 
 
-   - Fonction des boutons : TODO
-  
+   - Fonction des boutons :
+   
+      | Bouton | Fonction |
+      |:------:|:--------:|
+      |    1   |   Next   |
+      |    2   | Previous |
+      |    3   |    Up    |
+      |    4   |   Down   |
 
 
 ## Crédits
