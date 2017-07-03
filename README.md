@@ -75,7 +75,7 @@ todo image pcbs
 
 ## Crédits
 
-Exemples Adafruit ST7735
+[Adafruit ST7735](https://learn.adafruit.com/1-8-tft-display?view=all)
 
 ## License
 
