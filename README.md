@@ -20,11 +20,11 @@ Installer les librairies Adafruit GFX et ST7735 via l'application Arduino (Croqu
 
  - Utilisation de l'arduino DUE et de son programming port.
 
-![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/Arduino%20DUE%20programming%20port.jpg)
+![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/master/Ressources/Arduino%20DUE%20programming%20port.jpg)
 
  - Utilisation d'un écran tft 1.8", communication SPI.
 
-![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/tft128par160.jpeg)
+![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/master/Ressources/tft128par160.jpeg)
 
  - PCBs avec boutons poussoirs.
 
@@ -45,13 +45,13 @@ todo image pcbs
 
    - Numérotation Pins SPI :
    
-   ![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/Arduino%20DUE%20SPI%20pins.jpg)
+   ![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/master/Ressources/Arduino%20DUE%20SPI%20pins.jpg)
 
    - 4 Boutons poussoirs avec pull down (R = 20k Ohms) :
 
    - Signal 5V en provenance de l'Arduino (Voir image) :
    
-   ![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/Ressources/Ressources/Arduino%20Due%205V.jpg)
+   ![alt text](https://raw.githubusercontent.com/WalkingMachine/wm_battery_screen/master/Ressources/Arduino%20Due%205V.jpg)
    
    - Cablâge des boutons : 
 
